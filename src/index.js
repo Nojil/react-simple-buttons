@@ -9,7 +9,7 @@ class Button extends React.Component {
             type={this.props.type}
             className={`button ripple + ${this.props.color} + ${this.props.size}`}
           >
-            Submit
+            {this.props.text}
           </button>
       );
     }
