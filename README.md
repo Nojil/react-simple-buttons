@@ -62,7 +62,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Charles Lang** - *Initial work* - [simple-react-button](https://github.com/Nojil)
+* **Charles Lang** - *Initial work* - [Nojil](https://github.com/Nojil)
 
 See also the list of [contributors](https://github.com/Nojil/react-simple-buttons) who participated in this project.
 
