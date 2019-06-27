@@ -1,14 +1,14 @@
 # react-simple-buttons
 
-React Simple Buttons is a simple React Component that si plifies the use of button throughout a website. THis one compoent can take multiple different props to style itself without having to worry about hundreds of different calss names to style your buttons.
+React Simple Buttons is a simple React Component that simplifies the use of buttons throughout a website. This one component can take multiple different props to style itself without having to worry about hundreds of different class to style your buttons.
 
 ## Getting Started
 
-To dive right into using react-simple-button simple install the npm package.
+To dive right into using react-simple-button simply install the npm package.
 
 ### Prerequisites
 
-To install the rect component you will need the latest version of NPM:
+To install the react component you will need the latest version of NPM:
 
 ```
 npm i -g
@@ -24,7 +24,7 @@ npm i react-simple-buttons
 
 ## Usage
 
-The beauty of react-simple-buttons is you can pass multiple different props to the componet to alter the appearance of the button
+The beauty of **react-simple-buttons** is you can pass multiple different props to the component to alter the appearance of the button
 
 ```
 <Button color={"color options"} type={"type options"} size={"size options"}>
