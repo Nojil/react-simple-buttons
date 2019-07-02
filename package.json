@@ -1,8 +1,9 @@
 {
   "name": "react-simple-buttons",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A simple react button component",
   "main": "build/index.js",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^15.5.4"
   },
