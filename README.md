@@ -27,7 +27,13 @@ npm i react-simple-buttons
 The beauty of **react-simple-buttons** is you can pass multiple different props to the component to alter the appearance of the button
 
 ```
-<Button color={"color options"} type={"type options"} size={"size options"}>
+<Button 
+    text={"Same Text"} 
+    color={"color options"} 
+    type={"type options"} 
+    size={"size options"} 
+    theme={"theme"}
+>
 ```
 
 ### Color Options:
