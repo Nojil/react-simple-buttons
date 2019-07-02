@@ -56,6 +56,13 @@ The beauty of **react-simple-buttons** is you can pass multiple different props 
     button-large
 ```
 
+### Button Theme:
+```
+    tm-1
+    tm-2
+    tm-3
+```
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Nojil/react-simple-buttons/tags). 
