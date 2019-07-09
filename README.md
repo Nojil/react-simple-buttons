@@ -64,11 +64,12 @@ The beauty of **react-simple-buttons** is you can pass multiple different props 
 
 ### Button Theme:
 ```
-    tm-1
-    tm-2
-    tm-3
-    tm-4
-    
+    tm-1 - Light blue Primary
+    tm-2 - Grey Primary
+    tm-3 - Purple Primary
+    tm-4 - Orange Primary
+    tm-5 - Green Primary
+    tm-6 - Pink Primary
 ```
 
 ## Versioning
