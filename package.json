@@ -1,6 +1,6 @@
 {
   "name": "react-simple-buttons",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A simple react button component",
   "main": "build/index.js",
   "license": "MIT",
@@ -14,6 +14,7 @@
     "webpack": "^2.6.1"
   },
   "scripts": {
+    "dev": "gulp sass",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch",
     "build": "webpack"
@@ -28,6 +29,11 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1"
+    "babel-preset-env": "^1.5.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0"
   }
 }
