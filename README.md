@@ -68,6 +68,7 @@ The beauty of **react-simple-buttons** is you can pass multiple different props 
     tm-2
     tm-3
     tm-4
+    
 ```
 
 ## Versioning
