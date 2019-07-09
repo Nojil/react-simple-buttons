@@ -1,6 +1,10 @@
 {
   "name": "react-simple-buttons",
+<<<<<<< HEAD
   "version": "1.2.4",
+=======
+  "version": "1.2.3",
+>>>>>>> f4a9ca8d4f4e690811b579e0f2ad38eb4b597032
   "description": "A simple react button component",
   "main": "build/index.js",
   "license": "MIT",
